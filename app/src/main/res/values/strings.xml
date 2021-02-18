@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Symmetric Click</string>
+
+    <string name="description">Allow accessibility for symmetric click use</string>
+</resources>
